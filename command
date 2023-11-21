@@ -1,6 +1,6 @@
 Hello Everyone Welcome to Github
-<<<<<<< HEAD
+
 Enjoy making Repositories....
-=======
+
 Enjoy making Repositories....
->>>>>>> de67e25a1929aca0e029bf734a1d75c89d629f73
+
