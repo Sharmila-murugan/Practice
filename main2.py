@@ -1,5 +1,7 @@
 print("Hello world......................")
 print("n2+n4")
 print("Welcome")
-Print("Saving your changes..")
-print(Please wait for a while)
+print("Saving your changes..")
+print("Please wait for a while")
+
+
