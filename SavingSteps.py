@@ -1,0 +1,5 @@
+Print("Hello Welcome To Microsoft Word")
+print("Selct your file to edit!")
+print("Edit your file")
+print("Click on save to save the changes")
+print("Click on the save as to save the newFile")
